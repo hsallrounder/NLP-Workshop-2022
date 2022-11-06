@@ -1,0 +1,16 @@
+Natural Language Processing (NLP) is one of the most exciting fields in AI and has already given rise to technologies like chatbots, voice assistants, translators, and many other tools we use every day.
+
+The study of natural language processing began in the 1950s, with the first attempts of automated translation from Russian to English laying the groundwork for research in natural language processing. Around the same time, the Turing Test – originally known as the imitation game – was developed to determine if a machine was capable of behaving in the same way as a human being.
+
+Since then, NLP has come a long way. And, as unstructured data grows, NLP technology continues to evolve to better understand the nuances, context, and ambiguities of human language. Curious to know what’s ahead for natural
+It seems that more and more companies are beginning to see the benefits of NLP to draw out insights from large amounts of data, and automate tedious and repetitive tasks like question answering and ticket routing. Even though budgets were hit hard by the COVID-19 pandemic, 53% of leaders said their NLP budget was at least 10% higher compared to 2019.
+
+So what’s next for NLP, and how will businesses benefit? Well, the latest trends in NLP point towards applications that require limited labeled data and simplified processes that make NLP accessible to everyone.
+
+One thing is certain: NLP is only going to grow in 2022.
+One of the biggest breakthroughs in NLP this year has been the creation of machine learning models that create articles from scratch, with GPT-3 (Generative Pre-trained Transformer 3) leading the way. What’s unique about transformers is that they’re able to understand the context of words in a way that wasn’t possible before.
+
+Come 2022, the NLP community is going to be focusing more on BERT (Bidirectional Encoder Representations from Transformers) and ELMo (Embeddings from Language Models). These models have been trained on colossal amounts of data and are able to drastically improve the performance of a wide range of NLP problems.
+Transfer learning is a machine learning technique where a model is trained for one task and repurposed for a second task that’s related to the main task. So, instead of building and training a model from scratch, which is expensive, time-consuming, and requires huge amounts of data, you’ll just need to fine-tune a pre-trained model. This means that businesses can complete NLP tasks faster using smaller amounts of labeled data.
+
+Popularized in the field of computer vision, transfer learning is now being used in NLP tasks like intent classification, sentiment analysis, and named entity recognition.
